@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304235558047",
+    "project_id": "hw4mob",
+    "storage_bucket": "hw4mob.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304235558047:android:4c9c0e1bc8a641d99e9eaa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_hw_mob_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sin7tFsVQxyJ2EaJRUOrfcaxZuCvlIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
